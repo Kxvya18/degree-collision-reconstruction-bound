@@ -1,0 +1,15 @@
+============================================================
+RECOVERABILITY VALIDATION SUMMARY
+============================================================
+
+Pearson(bound,tau)                 0.6019
+Spearman(bound,tau)                0.9695
+R2(bound,tau)                      0.3622
+RMSE(bound,tau)                    0.1808
+Pearson(C,tau)                     -0.8996
+Spearman(C,tau)                    -0.9579
+Pearson(theory,empirical)          0.7947
+Mean efficiency                    0.4898
+Mean convergence error             0.1737
+Regression slope                   0.5871
+Regression intercept               9.17e-04

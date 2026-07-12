@@ -1,0 +1,18 @@
+Metric,Value
+"Pearson(bound,tau)",0.6018594803842836
+"Spearman(bound,tau)",0.9694584179118516
+"R²(bound,tau)",0.36223483412843993
+"RMSE(bound,tau)",0.18078113410347554
+"MAE(bound,tau)",0.13206215731351442
+"Pearson(C,tau)",-0.8995878995706386
+"Spearman(C,tau)",-0.9578947368421054
+"R²(C,tau)",0.8092583890539131
+"RMSE(C,tau)",0.09886565142385746
+"Pearson(theory,empirical)",0.7947072675267423
+"Spearman(theory,empirical)",0.953947083225262
+Mean efficiency,0.48976346299730916
+Efficiency std,1.112757510987223
+Mean convergence error,0.17371006552586069
+Maximum convergence error,0.3826477638107212
+Mean MLE bias,0.022863276410060498
+MLE bias std,0.018668042208955724
